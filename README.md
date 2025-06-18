@@ -1,9 +1,6 @@
 #  Airbnb-Prices
 ![airbnb](https://github.com/user-attachments/assets/01398d66-ac84-4eef-868f-8dfc347694a8)
-## 🌍 Project Overview
 
-
-The Airbnb Price Dashboard is a visually engaging Power BI report designed to provide insights into Airbnb listing prices across various locations. This interactive dashboard helps users analyze pricing trends, identify key factors influencing costs, and make data-driven decisions for better pricing strategies.
 
 ## ✨ Features
 
